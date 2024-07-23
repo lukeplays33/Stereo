@@ -1,2 +1,2 @@
 # Stereo
-Stereo is a library that allows you to design and export fully working website designs 
+Stereo uses a drag and drop builder that allows users to design innovative designs just in their browser.
